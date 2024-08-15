@@ -5,7 +5,7 @@ This repository serves as the master project for Optima, containing both the fro
 ### Submodules 
 
 - **Frontend:** [Link to Frontend Repo](https://github.com/your-username/frontend-repo)
-- - **Backend:** [Link to Backend Repo](https://github.com/your-username/backend-repo)
+- **Backend:** [Link to Backend Repo](https://github.com/your-username/backend-repo)
 
 ### Getting Started 
 
