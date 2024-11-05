@@ -1,9 +1,3 @@
 [submodule "optima"]
 	path = optima
 	url = https://github.com/eaapursuit/optima.git
-[submodule "backend"]
-	path = backend
-	url = https://github.com/eaapursuit/optima-backend.git
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/eaapursuit/optima.git
