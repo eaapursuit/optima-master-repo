@@ -4,8 +4,8 @@ This repository serves as the master project for Optima, containing both the fro
 
 ### Submodules 
 
-- **Frontend:** [Link to Frontend Repo](https://github.com/your-username/frontend-repo)
-- **Backend:** [Link to Backend Repo](https://github.com/your-username/backend-repo)
+- **Frontend:** [Link to Frontend Repo](https://github.com/eaapursuit/optima-master-repo/frontend)
+- **Backend:** [Link to Backend Repo](https://github.com/eaapursuit/optima-master-repo/backend)
 
 ### Getting Started 
 
